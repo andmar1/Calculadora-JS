@@ -11,3 +11,11 @@ body{
 .resultado{
     color: aqua;
 }
+
+.operandoA{
+    font-size: 4rem;
+}
+
+.operandoB{
+    font-size: 4rem;
+}
